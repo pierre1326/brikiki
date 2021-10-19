@@ -1,7 +1,7 @@
 import React from 'react'
 
-import LinkUI from '@mui/material/Link'
-import { makeStyles } from '@mui/styles'
+import LinkUI from '@material-ui/core/Link'
+import { makeStyles } from '@material-ui/core'
 
 interface Props {
   onClick: () => void

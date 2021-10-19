@@ -2,7 +2,7 @@ import React from 'react'
 
 import Home from '../Home'
 
-import { Box } from '@mui/system'
+import { Box } from '@material-ui/core'
 import { makeStyles } from '@material-ui/core'
 
 const useStyles = makeStyles({

@@ -1,7 +1,7 @@
 import React from 'react'
 
 import LoadingButton from '@mui/lab/LoadingButton'
-import { makeStyles } from '@mui/styles'
+import { makeStyles } from '@material-ui/core'
 
 const useStyles = makeStyles({
   disabled: {

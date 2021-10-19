@@ -2,7 +2,7 @@ import React from 'react'
 
 import FormControlLabel from '@material-ui/core/FormControlLabel';
 import CheckboxUI from '@material-ui/core/Checkbox'
-import { makeStyles } from '@mui/styles'
+import { makeStyles } from '@material-ui/core'
 
 interface Props {
   checked: boolean,

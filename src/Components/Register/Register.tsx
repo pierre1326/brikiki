@@ -4,7 +4,7 @@ import apiUser from '../../api'
 import { notificationActions } from '../../Store/notification-slice'
 import { useDispatch } from 'react-redux'
 
-import { makeStyles } from '@mui/styles'
+import { makeStyles } from '@material-ui/core'
 import Textfield from '../../UI/Textfield'
 import TextArea from '../../UI/TextArea'
 import Button from '../../UI/Button'

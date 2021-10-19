@@ -2,9 +2,9 @@ import React, { useEffect, useState } from 'react'
 
 import apiUser from '../../api'
 
+import { makeStyles } from '@material-ui/core'
 import { notificationActions } from '../../Store/notification-slice'
 import { useDispatch } from 'react-redux'
-import { makeStyles } from '@mui/styles'
 import Textfield from '../../UI/Textfield'
 import Button from '../../UI/Button'
 import Link from '../../UI/Link'

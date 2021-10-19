@@ -5,7 +5,7 @@ import Body from '../Body'
 import { useSelector, useDispatch } from 'react-redux';
 import { RootState } from '../../Store/store';
 
-import Snackbar from '@mui/material/Snackbar';
+import Snackbar from '@material-ui/core/Snackbar';
 import MuiAlert, { AlertProps } from '@mui/material/Alert';
 import { MuiThemeProvider, createTheme } from '@material-ui/core/styles';
 

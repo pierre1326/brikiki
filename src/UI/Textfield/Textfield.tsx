@@ -1,7 +1,7 @@
 import React from 'react'
 
-import { TextField } from '@mui/material'
-import { makeStyles } from '@mui/styles'
+import { TextField } from '@material-ui/core'
+import { makeStyles } from '@material-ui/core'
 
 const useStyles = makeStyles({
   root: {
